@@ -4,7 +4,7 @@
 import hashlib
 from connection import *
 
-#function can 
+
 def user_check():
     connection = connect()
     cursor = connection.cursor()
